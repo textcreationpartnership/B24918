@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious and earnest exhortation and seasonable warning given forth in two epistles to the people and inhabitants of Aberdeen, being the breathings of one of the despised sufferers for the blessed truth (in scorn called a Quaker) within their city, while I was under deep exercise of spirit, &amp; travail on their behalf for several dayes; so that I was made to become as a sign unto them, to warn them to flee from the wrath to come by speedy repentance, / who am known by the name of Andrew Jaffray.</title>
+            <author>Jaffray, Andrew, 1650-1726.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24918</idno><idno type="EEBO-CITATION">99884853</idno>
+  <idno type="VID">201168</idno>
+  <idno type="EEBO-PROQUEST">2264211117</idno>
+  
+            <idno type="STC">Wing J122</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.17[17]</idno>
+            <idno type="STC">ESTC R218746</idno>
+            <idno type="PROQUEST">ocm99884853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884853e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201168)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B12:2[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious and earnest exhortation and seasonable warning given forth in two epistles to the people and inhabitants of Aberdeen, being the breathings of one of the despised sufferers for the blessed truth (in scorn called a Quaker) within their city, while I was under deep exercise of spirit, &amp; travail on their behalf for several dayes; so that I was made to become as a sign unto them, to warn them to flee from the wrath to come by speedy repentance, / who am known by the name of Andrew Jaffray.</title>
+                  <author>Jaffray, Andrew, 1650-1726.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: A.J. ... the 6th day of the 4th mon. 1677.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Includes an advertisement at foot of p. 8.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Persecutions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:201168:1"/>
+            <p>A serious and earnest Exhortation and seasonable Warning given forth in two Epistles to the People and Inhabitants of <hi>Aberdeen,</hi> being the Breathings of one of the despised Sufferers for the blessed Truth (in scorn called a <hi>Qua<g ref="char:EOLhyphen"/>ker</hi>) within their City, while <hi>I</hi> was un<g ref="char:EOLhyphen"/>der deep Exercise of spirit, &amp; Travail on their behalf for several dayes; so that I was made to become as a sign un<g ref="char:EOLhyphen"/>to them, to warn them to flee from the Wrath to come by speedy Repentance, who am known by the Name of</p>
+            <p>Andrew Jaffray.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <div type="letter">
+               <head>To the Magistrates and Inhabitants of the City of <hi>Aber<g ref="char:EOLhyphen"/>deen;</hi> and Country there about.</head>
+               <p>YET once more am I moved of the Lord to warn you in his Name; and that I may clear my self of your Blood in his Sight, do I at this time warn you, cry unto you and beseech you in true Love to your Souls, that you
+<pb n="2" facs="tcp:201168:2"/> go not on any longer in the Hardness and Impenitency of your Hearts, slighting, despising, and shutting your Eyes against, mocking at, and persecuting the Work of God, and cruelly handling the despised Witnesses of his blessed Truth, in this day, lest he give you up speedily, and seal you up under ju<g ref="char:EOLhyphen"/>dicial Hardness, Impenitency and Blindness, and cease to strive any longer with you, having so long waited on, warned and cal<g ref="char:EOLhyphen"/>led you to Repentance, both by his Witness in your own Con<g ref="char:EOLhyphen"/>sciences, and by his Messengers and Servants; and that even while ye have (many of you) been continuing to despise, mock and persecute them and their Testimony, to your Power; and seeking to have them and their Testimony rooted out from a<g ref="char:EOLhyphen"/>mongst you; who yet have been those, who (while thus used by you) have stood in the Gap, wrestling and praying for you, that the burning Wrath of an offended God, might not break<g ref="char:EOLhyphen"/>forth and consume you, because of the so great Oppression of his Innocent Seed and Witness in your Hearts, by the so a<g ref="char:EOLhyphen"/>bounding of <hi>Deceit and Hypocrisie, Pride, Drunkenness, Ʋnclean<g ref="char:EOLhyphen"/>ness, Cruelty and Persecution,</hi> &amp; other Abominations among you.</p>
+               <p>Oh be not any longer deceived with the False Doctrines, &amp; Sin-pleasing smooth things that your Teachers prophesie unto you; who, while they seem to cry out against, and dehort you from Sin, yet really they sooth and harden you in it; being so far from telling you of any Power whereby ye may so over<g ref="char:EOLhyphen"/>come Sin, as to be fully set free from it (as by that measure of the Light and Life of Christ, to which we direct you in your own Hearts, ye may, if ye would heed and obey it) that on the contrary they teach you, that there is no Possibility of keeping out of Sin, or being fully set free from it in this Life; as if Christ were not a compleat Saviour, and both able, and willing fully to cleanse his People, and save them from the Filth of Sin, as well as from the Guilt of it, and Punishment thereof.</p>
+               <p>Oh be not any longer deluded, nor led to Destruction by
+<pb n="4" facs="tcp:201168:2"/> these Sin-pleasing Doctrines; for I declare unto you, in a mea<g ref="char:EOLhyphen"/>sure of the Fear and Dread of the living God, God is not, nor will not be mockt; as every one of you do sow here, &amp; not other<g ref="char:EOLhyphen"/>wayes, shall ye reap hereafter, whether to Flesh or Spirit: And notwithstanding all your profession and Lip-labour, if ye go on in your Iniquities, and come not to Repentance by turning in your minds to that Measure of the Manifestation of the Spirit in your Hearts, that thereby you may feel Sin discovered unto you, and dayly cosumed in you by the Brightness of his Come<g ref="char:EOLhyphen"/>ing, as a Refiners Fire, and Fullers Soap, till you be fully purified and cleansed there-from; otherwayes (I say) for all your great Profession, you shall perish forever, and the Wrath of God will break out upon you. Oh that you may repent, and be awakened, and leave off speedily the Evil of your Doings, and your Despi<g ref="char:EOLhyphen"/>sing and Persecuting the Work and Servants of the Lord, be<g ref="char:EOLhyphen"/>fore the Cup of your Iniquities be full, lest the Cup of Red Wine in the Hand of the Lord be poured out upon you; for it is full, and if ye repent not, <hi>Ye shall be made to drink it off, even the Drugs of the Cup of Trembling.</hi> Oh! how near is it to be poured out, if thus ye continue, and upon such of you as shall continue thus to provoke the Lord by slighting all his Invitati<g ref="char:EOLhyphen"/>ons and Warnings, to break off your Iniquities by Repentance, and to leave off to persecute his Servants and Witnesses, and their Testimony, which must and shall prevail over all, though now so much despised, and its Followers, as Men wondered at, accounted as Fools &amp; Mad-men by the wise of this World. Ah how will ye answer the Lord when he comes to judge you for these things; when ye shall be found to have been Fighters a<g ref="char:EOLhyphen"/>gainst God &amp; his Work? Repent, Repent therefore, and do no more so; otherwise, I warn you this day, the Lord will not always bear with you; but for the Sake of his own oppressed Seed in your Hearts, and his Despised and Persecuted Work &amp; Witness, <hi>He will arise and ease himself of his Adversaries.</hi> And ah! how
+<pb n="4" facs="tcp:201168:3"/> Dreadful, and Terrible will his Judgments be? Oh that ye may speedily flee from them; and so that this poor City may be saved from the Stroke of the <hi>Destroying Angel,</hi> which is ready to break in upon it, if not by speedy Repentance and A<g ref="char:EOLhyphen"/>mendment prevented.</p>
+               <p>The Lord the Searcher of Hearts knows, I nor my Brethren, who have been mocked, despised, reproached and persecuted among you, have not, nor do not desire the hastening of this e<g ref="char:EOLhyphen"/>vil Day nor that it may come upon you at all, but rather, if it be possible, that it may be prevented by your Repentance and Amendment.</p>
+               <p>So Dear Friends and People, lay it to Heart, lay it to Heart in time, and harden not your Hearts, neither be ye Mockers, lest your Bands be made strong; and that ye may, even all of you, find yet a place of Repentance, and so be forgiven, and ob<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ain Mercy, is the true Desire of</p>
+               <closer>
+                  <signed>Your Friend and Soul's Well-wisher A. J.</signed>
+                  <dateline>
+                     <hi>Aberdeen</hi> Prison <date>the 26th. of the 3<hi>d</hi> Mo. 1677.</date>
+                  </dateline>
+               </closer>
+               <argument>
+                  <p>Some dayes after my writing of this Paper, my Travail and Exer<g ref="char:EOLhyphen"/>cise continuing, and having got my outward Liberty for a little time, upon an outward Occasion, I was moved upon the 1st day of the 4th Moneth (being a publick Market-day) to go through the Streets of the City Naked, with Man's Dung in my Hand, and afterwards to scatter some of the above-written Papers at the Market-Cross, from which being carried, and haled again to Pri<g ref="char:EOLhyphen"/>son, it arose a little after with me, to write and give forth the fol<g ref="char:EOLhyphen"/>lowing Paper, for clearing my Mind more fully, and giving Satis<g ref="char:EOLhyphen"/>faction, so far as I may to all, concerning my Call to, and the Ground and Matter of the Exercise I had among them the said Day.</p>
+               </argument>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:201168:3"/>
+               <head>A VVarning and serious Exhortation, to the Inhabitants of the Town of <hi>Aber<g ref="char:EOLhyphen"/>deen,</hi> and Country there about.</head>
+               <opener>
+                  <salute>Friends and People,</salute>
+               </opener>
+               <p>THe Lord God of Heaven and of Earth, whose Eyes are piercing, and purer then to behold Iniquity, sees through all the Coverings of Profession that are not of his Spirit; and he will speedily discover the Nakedness of all such as are covered with any other Covering, as <hi>Painted Sepulchres, and Whited Walls, while inwardly full of dead mens Bones and Rottenness;</hi> full of Pride, Hypocrisie, Wantonness, Earthly-mindedness, and all manner of Abominations, and yet boldly professing them<g ref="char:EOLunhyphen"/>selves to be Christians, and offering Daily Worship and Sacri<g ref="char:EOLunhyphen"/>fice to God, while they know not the inward Purity of Heart▪ from whence the pure Offerings of <hi>Judah</hi> and <hi>Jerusalem</hi> ar<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> offered up, and accepted of the Lord, and are as a sweet Savou<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his Nostrils, coming from the Leadings and Movings of hi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own pure Spirit, and that pure heavenly Birth of its begettin<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Soul; which whosoever knows not, nor their Heart thereby in some measure turned from, and begun to be redeem<g ref="char:EOLunhyphen"/>ed out of the Earth, Vanities, Wickedness and Filthiness of i<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and yet go on with their Mouthes and Lips mocking God, by Deceitful, Hypocritical Profession, and Will-worship in the<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> own Will, Time and Strength, all the Profession and Wor<g ref="char:EOLunhyphen"/>ship of such is but as Dung; Yea, as a Stink and evil Savour i<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Nostrils, which he will cast back in your Faces, and strip you naked and bare; as in the Day that ye were born; and pour out the Vial of his Wrath upon you, unless you speedily re<g ref="char:EOLhyphen"/>pent,
+<pb n="6" facs="tcp:201168:4"/> and turn to his Light and Witness in your Hearts, and bring all your Deeds and Outside Profession thereto, that there<g ref="char:EOLhyphen"/>by ye may be searched, and discovered to your selves; and re<g ref="char:EOLhyphen"/>deemed and purged by a Spirit of Judgment and Burning, in your inward Parts, from that most Deceitful, Wicked Spirit, that so blinds and hardens you, as to make you believe, you are worshipping and serving God; and are Christians, while ye are so contrary to the meek and lowly Nature of Christ, who pray<g ref="char:EOLhyphen"/>ed for, and commanded to <hi>Forgive and Love Enemies,</hi> that your Hands are full (as of many other Abominations,) so of of Cruelty and Persecution, either by acting, or consulting to the oppressing and bearing down the innocent Servants and Witnesses of God, and his Work in and among them, having no other Crime to lay to their Charge, but their Faithfulness, and Obedience to God, <hi>Not forsaking the assembling of them<g ref="char:EOLhyphen"/>selves together;</hi> for worshiping God in Spirit and Truth, ac<g ref="char:EOLhyphen"/>cording to his Leadings and Guidings; while in the mean time the <hi>Drunkards and Swearers, the Whore-masters and profane Stage players</hi> are entertained, kept Fellowship with, and suffer<g ref="char:EOLhyphen"/>ed to live peaceably among you.</p>
+               <p>Oh how is the Wrath of God burning against you for these and other Abominations among you! And how near is your Cup to be full, and the Sickle to be thrust in, to cut you down, as ready for the Wine-press of the Wrath of God, if speedily ye turn not, and break off your Wickedness by Repentance.</p>
+               <p>Oh how long hath the Lord born with you, invited and cal<g ref="char:EOLhyphen"/>led unto you saying, <hi>Turn you, turn you, why will ye dye?</hi> even while ye have been going on persecuting, and cruelly handling his Servants, mocking at and despising his Work, which shall prosper over all Opposition: But Wo to them who are stum<g ref="char:EOLhyphen"/>bled at, and continue to stumble at this Stumbling-Stone, and Rock of Offence; which, though the Builders have rejected, yet shall it, must it become the Head of the Corner, and will
+<pb n="7" facs="tcp:201168:4"/> grind all to Powder upon whom it falls, who refuse to fall upon it to be broken off from, and made to part with all their Iniqui<g ref="char:EOLhyphen"/>ties, and Hearts-Lusts and Idols. Oh turn to it, obey it, even the Light of Christ in every one of your Consciences. <hi>Kiss the Son lest he be angry, and ye perish from the Way; for if his Wrath is kindled but a little blest are all they that put their trust in him;</hi> &amp; verily Friends, his Wrath is burningas an oven, &amp; ready to break forth, unless you speedily repent; for he will not always suffer his Seed to beoppressed by the Wickedness of Men; and his Work &amp; Witnesses to be despised, mocked and persecuted among you.</p>
+               <p>But Oh! how willing is he; who delights not in, nor desires the Death of any one Sinner, that ye should turn and repent, that so his Wrath may be yet turned away from you; therefore he hath sent you Line upon Line, Warning upon Warning, both by his Witness in your Hearts, and his Servants and Wit<g ref="char:EOLhyphen"/>nesses without you: Yea, Signs and Wonders have been sent a<g ref="char:EOLhyphen"/>mong you, as of old he sent to the Children of <hi>Israel,</hi> and the Nations about, by those who were then as much despised as we are now.</p>
+               <p>And among other Warnings ye have got to call you to Re<g ref="char:EOLhyphen"/>pentance, before your Cup be altogether Full, was I, as one of his despised Followers, moved of the Lord pressed in Spi<g ref="char:EOLhyphen"/>rit, and constrained by the Love of God to give up my Body as a Sign and a Wonder unto you, by going Naked through your Streets, with Man's Dung in my Hand, as a Sign from the Lord that your Nakedness was speedily to be discovered, if ye repent not; and that all your Fig Leaves of Profession, and Outside Will worship (being a Covering too narrow for your Nakedness) while walking in the Spirit and Vices above writ<g ref="char:EOLhyphen"/>ten, was much more loathsome, and abominable in his Sight, and of a more loathsome Savour in his Nostrils, then the vilest Dung can be in yours.</p>
+               <p>And whatever the worldly and carnal Wisdom of Man in you
+<pb n="8" facs="tcp:201168:5"/> may judge of the seeming Madness and Folly of this my Behavi<g ref="char:EOLhyphen"/>our, yet the Day is coming, and hastening apace, that either in Mercy (as ye take warning and repent) or in Wrath (as ye conti<g ref="char:EOLhyphen"/>nue to slight and mock) ye shall be made to confess, I wanted not a Warrant for what I did.</p>
+               <closer>
+                  <signed>A. J.</signed>
+               </closer>
+               <epigraph>
+                  <q>The Lord is making, and will yet more make the Diviners mad in this Day, and confound the Wisdom of this World by Foolish<g ref="char:EOLhyphen"/>ness; and things that are (esteemed of Man) will he bring to Nought by things that are not.</q>
+               </epigraph>
+               <closer>
+                  <dateline>
+                     <hi>Aberdeen</hi> Prison, where I with many of my Brethren have been detained in Bonds for about fiveteen Mo<g ref="char:EOLhyphen"/>neths by-gone, because of our peaceably meeting to<g ref="char:EOLhyphen"/>gether, for worshipping God in Spirit and Truth, <date>the 6th Day of the 4th Mon. 1677,</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="recommended_reading">
+            <head>Some Books for a general Service.</head>
+            <p>
+               <hi>Isaac Penington,</hi> To the <hi>Jews</hi> Natural, and to the <hi>Jews</hi> Spiritual, with a few Words to <hi>England</hi> my native Country; whereunto are added two or three Queries touching the River and City of God, and the pure Stilness, wherein God is known and exalted.</p>
+            <p>
+               <hi>George Fox,</hi> The Spirit of Man the Candle of the Lord; the Candle of the Wicked often put out.</p>
+            <p>
+               <hi>George Fox,</hi> A Testimony for all the Masters of Ships and Sea<g ref="char:EOLhyphen"/>men to read over.</p>
+            <p>
+               <hi>Geoge Fox,</hi> Christ's Parable of <hi>Dives</hi> and <hi>Lazarus</hi> for all called Christians and others to consider.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
